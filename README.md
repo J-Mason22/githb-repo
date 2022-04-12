@@ -1,2 +1,2 @@
 # githb repo
-adiibg a new line
+adiing a new line
